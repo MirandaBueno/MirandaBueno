@@ -1,6 +1,6 @@
-# Hola :sunflower:
+## Hola :sunflower:
 
-## :seedling: Soy estudiante de ingenieria en computación 
+### :seedling: Soy estudiante de ingenieria en computación 
 
 <!--
 **MirandaBueno/MirandaBueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
